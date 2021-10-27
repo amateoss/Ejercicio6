@@ -1,5 +1,5 @@
 import st
-import st as stadistics
+
 data = list()
 for indice in range(3):
     data.append(float(input("siguiente dato?: ")))
